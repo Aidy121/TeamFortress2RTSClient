@@ -1,4 +1,6 @@
 // Author: Aidan Fisher
+// Clientside.
+// Needs to connect to TeamFortress2RTS (Server side)
 
 import java.applet.*;
 import java.awt.*;
